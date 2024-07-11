@@ -1,0 +1,17 @@
+.block {
+  border-radius: 50%;
+  text-align: center;
+  width: 150px;
+  height: 100px;
+  background: black;
+  position: relative;
+  left: 0;
+  top: 0;
+  transition: 3s;
+}
+
+.block p {
+  padding: 35px 25px;
+  color: white;
+  font-size: 25px;
+}
